@@ -6,7 +6,7 @@ The goal is to identify trends, understand which companies and industries were a
 ---
 
 ## 📂 Project Structure
-
+```
 Layoffs-EDA-Project/
 │
 ├── data/
@@ -16,7 +16,7 @@ Layoffs-EDA-Project/
 │   └── Project_EDA.sql
 │
 └── README.md
-
+```
 ---
 
 ## 🔍 Key Insights from the EDA
@@ -52,3 +52,4 @@ Layoffs-EDA-Project/
 
 Your Name  
 Tools Used: MySQL, SQL EDA, Data Cleaning
+
