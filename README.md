@@ -9,10 +9,10 @@ The goal is to identify trends, understand which companies and industries were a
 ```
 Layoffs-EDA-Project/
 │
-├── data/
+├── Data/
 │   └── layoffs.csv
 │
-├── sql/
+├── SQL/
 │   └── Project_EDA.sql
 │
 └── README.md
@@ -52,4 +52,5 @@ Layoffs-EDA-Project/
 
 Your Name  
 Tools Used: MySQL, SQL EDA, Data Cleaning
+
 
